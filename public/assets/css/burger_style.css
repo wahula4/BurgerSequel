@@ -1,0 +1,27 @@
+.form {
+  margin-top: 20px;
+}
+
+.eaten {
+  margin-top: 20px;
+}
+
+.title {
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#enter_text {
+  margin-bottom: 5px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: url('https://image.freepik.com/free-vector/grey-linen-texture-background_1053-253.jpg');
+}
+
+.gif {
+  text-align: center;
+  margin-top: 20px;
+}
